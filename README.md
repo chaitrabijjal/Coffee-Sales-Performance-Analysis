@@ -70,8 +70,6 @@ coffee-sales-performance-analysis/
 ```
 
 ---
-
----
 <h2><a class="anchor" id="data-cleaning--preparation"></a> 🧹 Data Cleaning & Preparation</h2>
 
 - Converted date fields using STR_TO_DATE  
@@ -86,7 +84,7 @@ coffee-sales-performance-analysis/
 - Total Sales  
 - Total Orders  
 - Total Quantity Sold  
-- Month-over-Month (MoM) Growth %  
+-  Month-over-Month (MoM) Growth %  
 - Sales by Store Location  
 - Sales by Product Category  
 - Top 10 Products by Revenue  
