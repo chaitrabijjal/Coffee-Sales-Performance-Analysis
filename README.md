@@ -116,10 +116,11 @@ Key patterns identified:
 ✔ Product Category Analysis  
 ✔ Top 10 Products  
 ✔ Sales Heatmap by Day & Hour  
+
 ![Vendor Performance Dashboard](Coffee_Shop_Sales.png)
 
 ---
-<h2><a class="anchor" id="how-to-run-this-project"></a>How to Run This Project</h2>
+<h2><a class="anchor" id="how-to-run-this-project"></a> ▶ How to Run This Project</h2>
 
 1. Clone the repository:
 ```bash
