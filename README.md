@@ -25,7 +25,7 @@ This project analyzes transactional coffee shop sales data to evaluate monthly r
 An end-to-end analytics workflow was implemented using **MySQL for data transformation and KPI calculation**, and **Power BI for interactive dashboard visualization**.
 
 ---
-<h2><a class="anchor" id="business-problem"></a>Business Problem</h2>
+<h2><a class="anchor" id="business-problem"></a> ❗Business Problem</h2>
 
 Coffee shop businesses often struggle to:
 
