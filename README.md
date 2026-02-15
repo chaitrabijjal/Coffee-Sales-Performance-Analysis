@@ -44,7 +44,7 @@ Coffee Shop Sales Dataset – <a href="https://github.com/chaitrabijjal/Coffee-S
 
 ---
 
-<h2><a class="anchor" id="tools--technologies"></a>Tools & Technologies</h2>
+<h2><a class="anchor" id="tools--technologies"></a> 🛠 Tools & Technologies</h2>
 
 
 - **MySQL** – Data cleaning, transformation, KPI calculations  
@@ -53,7 +53,7 @@ Coffee Shop Sales Dataset – <a href="https://github.com/chaitrabijjal/Coffee-S
 `SUM()`, `COUNT()`, `AVG()`, `LAG()`, `STR_TO_DATE()`, `MONTH()`, `DAY()`, `DAYOFWEEK()`, `CASE`, `JOINS`, `SUBQUERIES`, `WINDOW FUNCTIONS`
 
 ---
-<h2><a class="anchor" id="project-structure"></a>Project Structure</h2>
+<h2><a class="anchor" id="project-structure"></a> 📁 Project Structure</h2>
 
 ```
 coffee-sales-performance-analysis/
@@ -72,16 +72,28 @@ coffee-sales-performance-analysis/
 ---
 
 ---
-<h2><a class="anchor" id="data-cleaning--preparation"></a>Data Cleaning & Preparation</h2>
+<h2><a class="anchor" id="data-cleaning--preparation"></a> 🧹 Data Cleaning & Preparation</h2>
 
-- Removed transactions with:
-  - Gross Profit ≤ 0
-  - Profit Margin ≤ 0
-  - Sales Quantity = 0
-- Created summary tables with vendor-level metrics
-- Converted data types, handled outliers, merged lookup tables
+- Converted date fields using STR_TO_DATE  
+- Created month and weekday columns  
+- Removed null or inconsistent entries  
+- Aggregated sales at monthly and store levels  
+- Calculated Month-over-Month (MoM) growth using LAG()  
+
 
 ---
+<h2><a class="anchor" id="data-cleaning--preparation"></a>📊 Key KPIs </h2>
+- Total Sales  
+- Total Orders  
+- Total Quantity Sold  
+- Month-over-Month (MoM) Growth %  
+- Sales by Store Location  
+- Sales by Product Category  
+- Top 10 Products by Revenue  
+- Sales by Day & Hour  
+
+---
+
 <h2><a class="anchor" id="exploratory-data-analysis-eda"></a>Exploratory Data Analysis (EDA)</h2>
 
 **Negative or Zero Values Detected:**
