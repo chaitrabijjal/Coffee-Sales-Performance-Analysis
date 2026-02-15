@@ -40,16 +40,17 @@ This project transforms raw sales data into actionable insights to support bette
 ---
 <h2><a class="anchor" id="dataset"></a>Dataset</h2>
 
-Manufacturing Dataset – <a href="https://github.com/chaitrabijjal/Coffee-Sales-Performance-Analysis/blob/e6ff252a4150732666491a64b49eff234a0b5c8c/Coffee%20Shop%20Sales.xlsx">Excel File</a>
+Coffee Shop Sales Dataset – <a href="https://github.com/chaitrabijjal/Coffee-Sales-Performance-Analysis/blob/e6ff252a4150732666491a64b49eff234a0b5c8c/Coffee%20Shop%20Sales.xlsx">Excel File</a>
 
 ---
 
 <h2><a class="anchor" id="tools--technologies"></a>Tools & Technologies</h2>
 
-- SQL (Common Table Expressions, Joins, Filtering)
-- Python (Pandas, Matplotlib, Seaborn, SciPy)
-- Power BI (Interactive Visualizations)
-- GitHub
+
+- **MySQL** – Data cleaning, transformation, KPI calculations  
+- **Power BI** – Interactive dashboard
+- ### SQL Functions Used:
+`SUM()`, `COUNT()`, `AVG()`, `LAG()`, `STR_TO_DATE()`, `MONTH()`, `DAY()`, `DAYOFWEEK()`, `CASE`, `JOINS`, `SUBQUERIES`, `WINDOW FUNCTIONS`
 
 ---
 <h2><a class="anchor" id="project-structure"></a>Project Structure</h2>
