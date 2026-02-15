@@ -1,4 +1,4 @@
-# <img width="55" height="55" alt="image" src="https://github.com/user-attachments/assets/05f9be24-6c1a-4924-99db-cbc3d7ab15ca"/>Coffee-Sales-Performance-Analysis
+# <img width="55" height="55" alt="image" src="https://github.com/user-attachments/assets/05f9be24-6c1a-4924-99db-cbc3d7ab15ca"/> Coffee-Sales-Performance-Analysis
 
 Analyzing coffee shop sales performance to uncover revenue trends, product demand patterns, and store-level insights using SQL and Power BI.
 
