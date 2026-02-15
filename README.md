@@ -38,7 +38,7 @@ Coffee shop businesses often struggle to:
 This project transforms raw sales data into actionable insights to support better pricing, staffing, and inventory decisions.
 
 ---
-<h2><a class="anchor" id="dataset"></a>Dataset</h2>
+<h2><a class="anchor" id="dataset"></a> 📂 Dataset</h2>
 
 Coffee Shop Sales Dataset – <a href="https://github.com/chaitrabijjal/Coffee-Sales-Performance-Analysis/blob/e6ff252a4150732666491a64b49eff234a0b5c8c/Coffee%20Shop%20Sales.xlsx">Excel File</a>
 
