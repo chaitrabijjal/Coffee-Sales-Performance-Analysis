@@ -1,4 +1,5 @@
-# 🧾 Coffee-Sales-Performance-Analysis
+# <img width="156" height="148" alt="image" src="https://github.com/user-attachments/assets/05f9be24-6c1a-4924-99db-cbc3d7ab15ca" />
+ Coffee-Sales-Performance-Analysis
 
 Analyzing coffee shop sales performance to uncover revenue trends, product demand patterns, and store-level insights using SQL and Power BI.
 
@@ -23,7 +24,6 @@ Analyzing coffee shop sales performance to uncover revenue trends, product deman
 This project analyzes transactional coffee shop sales data to evaluate monthly revenue trends, order patterns, product performance, and store-level comparisons.  
 
 An end-to-end analytics workflow was implemented using **MySQL for data transformation and KPI calculation**, and **Power BI for interactive dashboard visualization**.
-This project evaluates vendor performance and retail inventory dynamics to drive strategic insights for purchasing, pricing, and inventory optimization. A complete data pipeline was built using SQL for ETL, Python for analysis and hypothesis testing, and Power BI for visualization.
 
 ---
 <h2><a class="anchor" id="business-problem"></a>Business Problem</h2>
