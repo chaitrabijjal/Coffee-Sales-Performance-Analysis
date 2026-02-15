@@ -46,7 +46,6 @@ Coffee Shop Sales Dataset – <a href="https://github.com/chaitrabijjal/Coffee-S
 
 <h2><a class="anchor" id="tools--technologies"></a> 🛠 Tools & Technologies</h2>
 
-
 - **MySQL** – Data cleaning, transformation, KPI calculations  
 - **Power BI** – Interactive dashboard
 - ### SQL Functions Used:
@@ -70,17 +69,19 @@ coffee-sales-performance-analysis/
 ```
 
 ---
+
 <h2><a class="anchor" id="data-cleaning--preparation"></a> 🧹 Data Cleaning & Preparation</h2>
 
 - Converted date fields using STR_TO_DATE  
 - Created month and weekday columns  
 - Removed null or inconsistent entries  
 - Aggregated sales at monthly and store levels  
-- Calculated Month-over-Month (MoM) growth using LAG()  
-
-
+- Calculated Month-over-Month (MoM) growth using LAG()
+  
 ---
+
 <h2><a class="anchor" id="data-cleaning--preparation"></a>📊 Key KPIs </h2>
+
 - Total Sales  
 - Total Orders  
 - Total Quantity Sold  
