@@ -56,24 +56,20 @@ Coffee Shop Sales Dataset – <a href="https://github.com/chaitrabijjal/Coffee-S
 <h2><a class="anchor" id="project-structure"></a>Project Structure</h2>
 
 ```
-vendor-performance-analysis/
+coffee-sales-performance-analysis/
 │
 ├── README.md
-├── .gitignore
-├── requirements.txt
-├── Vendor Performance Report.pdf
+├── dataset/
+│   └── coffee_sales.csv
 │
-├── notebooks/                  # Jupyter notebooks
-│   ├── exploratory_data_analysis.ipynb
-│   ├── vendor_performance_analysis.ipynb
+├── sql/
+│   └── Coffee_Sales_Dashboard.sql
 │
-├── scripts/                    # Python scripts for ingestion and processing
-│   ├── ingestion_db.py
-│   └── get_vendor_summary.py
-│
-├── dashboard/                  # Power BI dashboard file
-│   └── vendor_performance_dashboard.pbix
+├── dashboard/
+│   └── Coffee_Shop_Sales.pbix
 ```
+
+---
 
 ---
 <h2><a class="anchor" id="data-cleaning--preparation"></a>Data Cleaning & Preparation</h2>
