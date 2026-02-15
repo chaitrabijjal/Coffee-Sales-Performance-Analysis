@@ -40,8 +40,7 @@ This project transforms raw sales data into actionable insights to support bette
 ---
 <h2><a class="anchor" id="dataset"></a>Dataset</h2>
 
-- Multiple CSV files located in `/data/` folder (sales, vendors, inventory)
-- Summary table created from ingested data and used for analysis
+Manufacturing Dataset – <a href="https://github.com/chaitrabijjal/Manufacturing-Analysis/blob/97fa7ab33fadeb0627e6dc63a714b90c63c4a80f/Manufacturing%20Dataset.xlsx">Excel File</a>
 
 ---
 
