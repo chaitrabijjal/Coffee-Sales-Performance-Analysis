@@ -38,8 +38,6 @@ Coffee shop businesses often struggle to:
 This project transforms raw sales data into actionable insights to support better pricing, staffing, and inventory decisions.
 
 ---
-
----
 <h2><a class="anchor" id="dataset"></a>Dataset</h2>
 
 - Multiple CSV files located in `/data/` folder (sales, vendors, inventory)
