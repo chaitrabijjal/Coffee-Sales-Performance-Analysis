@@ -122,38 +122,27 @@ Key patterns identified:
 ---
 <h2><a class="anchor" id="how-to-run-this-project"></a> ▶ How to Run This Project</h2>
 
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/vendor-performance-analysis.git
-```
-3. Load the CSVs and ingest into database:
-```bash
-python scripts/ingestion_db.py
-```
-4. Create vendor summary table:
-```bash
-python scripts/get_vendor_summary.py
-```
-5. Open and run notebooks:
-   - `notebooks/exploratory_data_analysis.ipynb`
-   - `notebooks/vendor_performance_analysis.ipynb`
-6. Open Power BI Dashboard:
-   - `dashboard/vendor_performance_dashboard.pbix`
+1. Clone or download the repository.  
+2. Import the dataset into MySQL.  
+3. Run SQL queries to calculate KPIs.  
+4. Open `Coffee_Shop_Sales.pbix` in Power BI.  
+5. Refresh the data connection.  
+6. Explore dashboard using slicers and filters.  
 
 ---
-<h2><a class="anchor" id="final-recommendations"></a>Final Recommendations</h2>
+<h2><a class="anchor" id="final-recommendations"></a> 📌 Final Conclusion </h2>
 
-- Diversify vendor base to reduce risk
-- Optimize bulk order strategies
-- Reprice slow-moving, high-margin brands
-- Clear unsold inventory strategically
-- Improve marketing for underperforming vendors
+This project successfully transformed raw transactional coffee sales data into actionable business intelligence insights. The interactive dashboard enables stakeholders to monitor revenue trends, evaluate product performance, and optimize operational decisions.
 
 ---
 <h2><a class="anchor" id="author--contact"></a>Author & Contact</h2>
+**Chaitra Bijjal**  
+Aspiring Data Analyst  
+Skills: SQL | Power BI | Excel  
 
-**Ayushi Mishra**  
+LinkedIn: (Add your LinkedIn link)  
+Email: (Add your professional email)
+**Chaitra Bijjal**  
 Data Analyst  
-📧 Email: techclasses0810@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/ayushi-mishra-30813b174/)  
-🔗 [Portfolio](https://www.youtube.com/@techclasses0810/)
+📧 Email: chaitrabijjal15@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/chaitra-bijjal-16577a3a9)  
