@@ -19,7 +19,7 @@ Analyzing coffee shop sales performance to uncover revenue trends, product deman
 - <a href="#author--contact">Author & Contact</a>
 
 ---
-<h2><a class="anchor" id="overview"></a>Overview</h2>
+<h2><a class="anchor" id="overview"></a> 📖 Overview</h2>
 This project analyzes transactional coffee shop sales data to evaluate monthly revenue trends, order patterns, product performance, and store-level comparisons.  
 
 An end-to-end analytics workflow was implemented using **MySQL for data transformation and KPI calculation**, and **Power BI for interactive dashboard visualization**.
@@ -72,7 +72,7 @@ coffee-sales-performance-analysis/
 ---
 
 ---
-<h2><a class="anchor" id="data-cleaning--preparation"></a>'🧹'Data Cleaning & Preparation</h2>
+<h2><a class="anchor" id="data-cleaning--preparation"></a>Data Cleaning & Preparation</h2>
 
 - Removed transactions with:
   - Gross Profit ≤ 0
