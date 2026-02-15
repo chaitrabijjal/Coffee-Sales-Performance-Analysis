@@ -136,12 +136,7 @@ This project successfully transformed raw transactional coffee sales data into a
 
 ---
 <h2><a class="anchor" id="author--contact"></a>Author & Contact</h2>
-**Chaitra Bijjal**  
-Aspiring Data Analyst  
-Skills: SQL | Power BI | Excel  
 
-LinkedIn: (Add your LinkedIn link)  
-Email: (Add your professional email)
 **Chaitra Bijjal**  
 Data Analyst  
 📧 Email: chaitrabijjal15@gmail.com
