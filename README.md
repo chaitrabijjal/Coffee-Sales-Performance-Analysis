@@ -106,7 +106,7 @@ Key patterns identified:
 ---
 <h2><a class="anchor" id="dashboard"></a>Dashboard</h2>
 
--The Power BI dashboard includes:
+- The Power BI dashboard includes:
 
 ✔ KPI Cards (Sales, Orders, Quantity)  
 ✔ MoM Growth Analysis  
