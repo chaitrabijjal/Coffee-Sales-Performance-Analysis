@@ -27,12 +27,17 @@ An end-to-end analytics workflow was implemented using **MySQL for data transfor
 ---
 <h2><a class="anchor" id="business-problem"></a>Business Problem</h2>
 
-Effective inventory and sales management are critical in the retail sector. This project aims to:
-- Identify underperforming brands needing pricing or promotional adjustments
-- Determine vendor contributions to sales and profits
-- Analyze the cost-benefit of bulk purchasing
-- Investigate inventory turnover inefficiencies
-- Statistically validate differences in vendor profitability
+Coffee shop businesses often struggle to:
+
+- Track monthly sales performance  
+- Identify top-performing products  
+- Compare store-level performance  
+- Understand customer demand by time and day  
+- Detect revenue fluctuations  
+
+This project transforms raw sales data into actionable insights to support better pricing, staffing, and inventory decisions.
+
+---
 
 ---
 <h2><a class="anchor" id="dataset"></a>Dataset</h2>
