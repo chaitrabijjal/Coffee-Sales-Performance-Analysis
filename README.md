@@ -72,7 +72,7 @@ coffee-sales-performance-analysis/
 ---
 
 ---
-<h2><a class="anchor" id="data-cleaning--preparation"></a>🧹Data Cleaning & Preparation</h2>
+<h2><a class="anchor" id="data-cleaning--preparation"></a>'🧹'Data Cleaning & Preparation</h2>
 
 - Removed transactions with:
   - Gross Profit ≤ 0
