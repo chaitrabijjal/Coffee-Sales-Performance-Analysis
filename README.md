@@ -70,7 +70,7 @@ coffee-sales-performance-analysis/
 
 ---
 
-<h2><a class="anchor" id="data-cleaning--preparation"></a> 🧹 Data Cleaning & Preparation</h2>
+<h2><a class="anchor" id="key-kpis"></a> 🧹 Data Cleaning & Preparation</h2>
 
 - Converted date fields using STR_TO_DATE  
 - Created month and weekday columns  
