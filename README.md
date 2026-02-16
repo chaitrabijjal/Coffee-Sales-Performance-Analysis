@@ -140,4 +140,5 @@ This project successfully transformed raw transactional coffee sales data into a
 **Chaitra Bijjal**  
 Data Analyst  
 📧 Email: chaitrabijjal15@gmail.com
+
 🔗 [LinkedIn](https://www.linkedin.com/in/chaitra-bijjal-16577a3a9)  
