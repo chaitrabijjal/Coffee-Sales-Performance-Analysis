@@ -130,11 +130,23 @@ Key patterns identified:
 6. Explore dashboard using slicers and filters.  
 
 ---
+
+## 💼 Business Impact
+
+- Improved visibility into monthly and store-level performance  
+- Enabled identification of high-revenue products  
+- Supported staffing decisions using hourly demand analysis  
+- Helped optimize inventory planning  
+- Enabled data-driven business strategy
+  
+---
+
 <h2><a class="anchor" id="final-recommendations"></a> 📌 Final Conclusion </h2>
 
 This project successfully transformed raw transactional coffee sales data into actionable business intelligence insights. The interactive dashboard enables stakeholders to monitor revenue trends, evaluate product performance, and optimize operational decisions.
 
 ---
+
 <h2><a class="anchor" id="author--contact"></a>Author & Contact</h2>
 
 **Chaitra Bijjal**  
