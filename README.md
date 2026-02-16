@@ -48,7 +48,7 @@ Coffee Shop Sales Dataset – <a href="https://github.com/chaitrabijjal/Coffee-S
 
 - **MySQL** – Data cleaning, transformation, KPI calculations  
 - **Power BI** – Interactive dashboard
-- ### SQL Functions Used:
+### SQL Functions Used:
 `SUM()`, `COUNT()`, `AVG()`, `LAG()`, `STR_TO_DATE()`, `MONTH()`, `DAY()`, `DAYOFWEEK()`, `CASE`, `JOINS`, `SUBQUERIES`, `WINDOW FUNCTIONS`
 
 ---
