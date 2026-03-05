@@ -85,7 +85,7 @@ coffee-sales-performance-analysis/
 - Total Sales  
 - Total Orders  
 - Total Quantity Sold  
--  Month-over-Month (MoM) Growth %  
+-  Month-over-Month (MoM) Growth % 
 - Sales by Store Location  
 - Sales by Product Category  
 - Top 10 Products by Revenue  
